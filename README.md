@@ -12,13 +12,6 @@ You can then mark them as completed or not, filter them and delete them.
 
 ![App main screen, screenshot](screenshot.png)
 
-This codelab has four branches, representing different code states:
-
-- [starter_code](https://github.com/googlecodelabs/android-testing/tree/starter_code)
-- [end_codelab_1](https://github.com/googlecodelabs/android-testing/tree/end_codelab_1)
-- [end_codelab_2](https://github.com/googlecodelabs/android-testing/tree/end_codelab_2)
-- [end_codelab_3](https://github.com/googlecodelabs/android-testing/tree/end_codelab_3)
-
 The codelabs in this series are:
 
 - [Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics)
